@@ -6,4 +6,6 @@ Operación resta (numero1, numero2) = numero1-numero2
 
 Operación multiplicación (numero1, numero2) = numero1*numero2
 
-Operación división (nuemro1, numero2) = numero1//numero2
+Operación división (nuemroA, numeroB) = numeroA/numeroB
+
+Operación potencia (nuermo, exponente)
